@@ -11,7 +11,7 @@ So is [Project 1](/projects/project1) and [Project 2](/projects/project2)]
 ## Examples
 
 - See [Examples - MDC - Inline components](/examples/inline-components) with :detail
-- See [Examples - MDC - Nested components](/examples/nested-components)
+- See [Examples - MDC - Nested components](/examples/nested-components) with default `ContentSlot`
 - See [Examples - MDC - Props](/examples/props)
 - See [Examples - MDC - Slots](/examples/slots)
 - See [Examples - Queries - Where](/examples/where)
