@@ -26,8 +26,9 @@ $ npm run dev
 
 - bedc8b6 initial commit
   - just as indicated in [Getting Started](https://content.nuxtjs.org/get-started) with catch-all route
-- 98abbd8 (HEAD -> master) regular nuxt page plus two markdown content pages with navigation
+- 98abbd8 regular nuxt page plus two markdown content pages with navigation
   - Moved index to /pages/index.vue and changed /content/index.md to /content/the-content.md
+- 1f59048 added more content to content paths
 
 All content available as [API](http://localhost:3000/api/_content/query) automatically
 
