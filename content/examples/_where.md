@@ -1,12 +1,12 @@
-<script lang="ts" setup>
-/*
-const article = await queryContent("/examples/.where")
-  .where({ title: "Query Where" })
-  .findOne()
-console.log(article)
-*/
-</script>
+---
+mood: 👴
+---
 
+# Query Where
+
+- Displaying this markdown partial inside a regularly created and routed Nuxt 3 vue page using the [ContentQuery](https://content.nuxtjs.org/api/components/content-query) component:
+
+```vue
 <template>
   <ContentQuery
     path="/examples"
@@ -23,7 +23,5 @@ console.log(article)
       <p>Mood: {{ data.mood }}</p>
       <ContentRendererMarkdown :value="data" />
     </ContentRenderer>
-  </ContentQuery>
 </template>
-
-<style scoped></style>
+```
