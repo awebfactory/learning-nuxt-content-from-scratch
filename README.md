@@ -20,19 +20,15 @@ ls
 $ npm run dev
 ```
 
-## Commits
-
-> Based on reading through docs and trying out stuff
-
-- bedc8b6 initial commit
-  - just as indicated in [Getting Started](https://content.nuxtjs.org/get-started) with catch-all route
-- 98abbd8 regular nuxt page plus two markdown content pages with navigation
-  - Moved index to /pages/index.vue and changed /content/index.md to /content/the-content.md
-- 1f59048 added more content to content paths
+## Auto API!
 
 All content available as [API](http://localhost:3000/api/_content/query) automatically
 
-## Starter Doc
+## Commits
+
+See [All commits to see learning steps](https://github.com/awebfactory/learning-nuxt-content-from-scratch/commits/main)
+
+## Starter Doc (original README)
 
 Look at the [Content documentation](https://content-v2.nuxtjs.org/) to learn more.
 
