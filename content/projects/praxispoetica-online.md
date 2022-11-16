@@ -18,4 +18,6 @@ type: project
 slug: praxispoetica-online
 ---
 
+# Praxispoetica Online
+
 Similar in scope to somethng like Reedsy, but run by the community itself instead of a corporation, and including resources such as a retrospective (1976-77)of the Alberto Mediza Buenos Aires Poetry Writing Workshop
